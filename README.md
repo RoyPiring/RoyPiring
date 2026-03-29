@@ -46,35 +46,35 @@ Focused systems, each exploring a different dimension of real-world engineering.
 
 ## 🔧 Tooling
 
-<p align="center" style="margin-bottom: 0.35em;"><sub>🏗️ <strong>Infrastructure &amp; platform</strong> · roles I operate in</sub></p>
+<p align="center" style="margin-bottom: 0.35em;"><sub>🏗️ <strong>Infrastructure &amp; Platform</strong></sub></p>
 <p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
   <img src="https://img.shields.io/badge/Cloud-1B4332?style=flat-square&logoColor=F4D03F" alt="Cloud" />
   <img src="https://img.shields.io/badge/IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="IaC" />
   <img src="https://img.shields.io/badge/Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Containers" />
-  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
-  <img src="https://img.shields.io/badge/Network-2F5233?style=flat-square&logoColor=F4D03F" alt="Network" />
-  <img src="https://img.shields.io/badge/Observe-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Observe" />
-  <img src="https://img.shields.io/badge/Automate-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Automate" />
-  <img src="https://img.shields.io/badge/API-1B4332?style=flat-square&logo=swagger&logoColor=F4D03F" alt="API" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Networking-2F5233?style=flat-square&logo=cisco&logoColor=F4D03F" alt="Networking" />
+  <img src="https://img.shields.io/badge/Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/APIs-1B4332?style=flat-square&logo=swagger&logoColor=F4D03F" alt="APIs" />
 </p>
 
-<p align="center" style="margin-bottom: 0.35em;"><sub>🤖 <strong>AI engineering</strong> · roles I operate in</sub></p>
+<p align="center" style="margin-bottom: 0.35em;"><sub>🤖 <strong>AI Engineering</strong></sub></p>
 <p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Integrate-1B4332?style=flat-square&logoColor=F4D03F" alt="Integrate" />
-  <img src="https://img.shields.io/badge/Dev%20tools-000000?style=flat-square&logo=cursor&logoColor=white" alt="Dev tools" />
-  <img src="https://img.shields.io/badge/Prompts-2F5233?style=flat-square&logoColor=F4D03F" alt="Prompts" />
-  <img src="https://img.shields.io/badge/Workflows-1B4332?style=flat-square&logoColor=E9C46A" alt="Workflows" />
+  <img src="https://img.shields.io/badge/AI%20Integration-1B4332?style=flat-square&logoColor=F4D03F" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/AI%20Dev%20Tools-000000?style=flat-square&logo=cursor&logoColor=white" alt="AI Dev Tools" />
+  <img src="https://img.shields.io/badge/Prompting-2F5233?style=flat-square&logoColor=F4D03F" alt="Prompting" />
+  <img src="https://img.shields.io/badge/AI%20Workflows-1B4332?style=flat-square&logoColor=E9C46A" alt="AI Workflows" />
 </p>
 
-<p align="center" style="margin-bottom: 0.35em;"><sub>🕸️ <strong>Agentic systems</strong> · roles I operate in</sub></p>
+<p align="center" style="margin-bottom: 0.35em;"><sub>🕸️ <strong>Agentic Systems</strong></sub></p>
 <p align="center" style="margin-top: 0; margin-bottom: 0;">
   <img src="https://img.shields.io/badge/Agents-1B4332?style=flat-square&logoColor=F4D03F" alt="Agents" />
-  <img src="https://img.shields.io/badge/Multi--agent-2F5233?style=flat-square&logoColor=F4D03F" alt="Multi-agent" />
-  <img src="https://img.shields.io/badge/Orchestrate-1B4332?style=flat-square&logoColor=E9C46A" alt="Orchestrate" />
+  <img src="https://img.shields.io/badge/Multi--Agent-2F5233?style=flat-square&logoColor=F4D03F" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/Orchestration-1B4332?style=flat-square&logoColor=E9C46A" alt="Orchestration" />
   <img src="https://img.shields.io/badge/State-2F5233?style=flat-square&logoColor=F4D03F" alt="State" />
   <img src="https://img.shields.io/badge/Memory-1B4332?style=flat-square&logoColor=F4D03F" alt="Memory" />
-  <img src="https://img.shields.io/badge/Tools-0d1117?style=flat-square&logoColor=F4D03F" alt="Tools" />
+  <img src="https://img.shields.io/badge/Tooling-0d1117?style=flat-square&logoColor=F4D03F" alt="Tooling" />
 </p>
 
 ---
