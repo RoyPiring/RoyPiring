@@ -4,10 +4,6 @@
 
 <article style="font-size: 1.125rem; line-height: 1.65;">
 
-# Roy Piring Jr.
-
-## Senior Cloud Engineer
-
 Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
 
 ---
