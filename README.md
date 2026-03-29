@@ -37,16 +37,45 @@ Clear decisions upfront prevent most downstream issues.
 
 ---
 
-## Tooling
+# Tooling
 
-**Infrastructure & Platform:**  
-Cloud • IaC • Containers • Kubernetes • Networking • Observability • Automation • APIs  
+<div align="center">
 
-**AI Engineering:**  
-LLMs • AI Integration • AI Dev Tools • Prompting • AI Workflows  
+**Infrastructure & Platform**
 
-**Agentic Systems:**  
-Agents • Multi-Agent • Orchestration • State • Memory • Tooling  
+<p>
+  <img src="https://img.shields.io/badge/Cloud-1B4332?style=for-the-badge&logoColor=F4D03F" alt="Cloud" />
+  <img src="https://img.shields.io/badge/IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC" />
+  <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Networking-2F5233?style=for-the-badge&logo=cisco&logoColor=F4D03F" alt="Networking" />
+  <img src="https://img.shields.io/badge/Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/APIs-1B4332?style=for-the-badge&logo=swagger&logoColor=F4D03F" alt="APIs" />
+</p>
+
+**AI Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI%20Integration-1B4332?style=for-the-badge&logoColor=F4D03F" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/AI%20Dev%20Tools-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="AI Dev Tools" />
+  <img src="https://img.shields.io/badge/Prompting-2F5233?style=for-the-badge&logoColor=F4D03F" alt="Prompting" />
+  <img src="https://img.shields.io/badge/AI%20Workflows-1B4332?style=for-the-badge&logoColor=E9C46A" alt="AI Workflows" />
+</p>
+
+**Agentic Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Agents-1B4332?style=for-the-badge&logoColor=F4D03F" alt="Agents" />
+  <img src="https://img.shields.io/badge/Multi--Agent-2F5233?style=for-the-badge&logoColor=F4D03F" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/Orchestration-1B4332?style=for-the-badge&logoColor=E9C46A" alt="Orchestration" />
+  <img src="https://img.shields.io/badge/State-2F5233?style=for-the-badge&logoColor=F4D03F" alt="State" />
+  <img src="https://img.shields.io/badge/Memory-1B4332?style=for-the-badge&logoColor=F4D03F" alt="Memory" />
+  <img src="https://img.shields.io/badge/Tooling-0d1117?style=for-the-badge&logoColor=F4D03F" alt="Tooling" />
+</p>
+
+</div>
 
 ---
 
