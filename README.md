@@ -37,10 +37,10 @@ Focused systems, each exploring a different dimension of real-world engineering.
 | Repo | Focus |
 |:---|:---|
 | [`cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | End-to-end systems: constraints, tradeoffs, operational behavior |
-| [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Cross-domain systems: boundaries, scaling decisions, systemic tradeoffs |
-| [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Regulated environments: compliance, segmentation, auditability |
 | [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI & agent workflows: orchestration, control, reliability |
+| [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Regulated environments: compliance, segmentation, auditability |
 | [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Cost, efficiency, and outcome-driven architecture |
+| [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Cross-domain systems: boundaries, scaling decisions, systemic tradeoffs |
 
 ---
 
