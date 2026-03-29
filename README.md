@@ -48,6 +48,8 @@ Clear decisions upfront prevent most downstream issues.
   <img src="https://img.shields.io/badge/IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC" />
   <img src="https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Networking-2F5233?style=for-the-badge&logo=cisco&logoColor=F4D03F" alt="Networking" />
   <img src="https://img.shields.io/badge/Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Observability" />
   <img src="https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
