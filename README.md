@@ -12,13 +12,35 @@ Engineering with intent: what gets built, why it runs, and how it holds under re
 
 ---
 
+## Engineering Philosophy
+
+Most engineering failures are not technical.  
+They come from unclear decisions.
+
+This work turns experience into systems that can be reasoned about, tested, and reused.
+
+---
+
+## How I Work
+
+Before building:
+
+- Define the real problem  
+- Identify constraints  
+- Understand failure modes  
+- Make tradeoffs explicit  
+
+Clear decisions upfront prevent downstream instability.
+
+---
+
 ## Systems Portfolio
 
 Focused systems, each exploring a different dimension of real-world engineering.
 
 | Repo | Focus |
 |:---|:---|
-| [`cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | End-to-end cloud systems: constraints, tradeoffs, operational behavior |
+| [`cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | End-to-end systems: constraints, tradeoffs, operational behavior |
 | [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Cross-domain systems: boundaries, scaling decisions, systemic tradeoffs |
 | [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Regulated environments: compliance, segmentation, auditability |
 | [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI & agent workflows: orchestration, control, reliability |
@@ -70,31 +92,9 @@ Focused systems, each exploring a different dimension of real-world engineering.
 
 ---
 
-## How I Work
-
-Before building:
-
-- Define the real problem  
-- Identify constraints  
-- Understand failure modes  
-- Make tradeoffs explicit  
-
-Clear decisions upfront prevent downstream instability.
-
----
-
-## Engineering Philosophy
-
-Most engineering failures are not technical.  
-They come from unclear decisions.
-
-This work turns experience into systems that can be reasoned about, tested, and reused.
-
----
-
 # Connect
 
-https://www.linkedin.com/in/roy-piring-jr-426a1911a
+LinkedIn: https://www.linkedin.com/in/roy-piring-jr-426a1911a
 
 </article>
 
