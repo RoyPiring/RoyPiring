@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Purpose%20Engineering&fontSize=48&fontColor=F4D03F&fontAlignY=42&font=Inter&animation=twinkling" width="100%" alt="Purpose Engineering" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=220&section=header&text=Purpose%20Engineering&fontSize=56&fontColor=F4D03F&fontAlignY=42&font=Inter&animation=twinkling" width="100%" alt="Purpose Engineering" />
 </div>
+
+<article style="font-size: 1.125rem; line-height: 1.65;">
 
 # Roy Piring Jr.
 
-### Senior Cloud Engineer
+## Senior Cloud Engineer
 
 Engineering with intent: what gets built, why it's allowed to run, and how it holds up under real constraints.
 
 ---
 
-## Repos
+# Repos
 
 Core system, what I actually build, and domain threads, in one place.
 
@@ -24,7 +26,7 @@ Core system, what I actually build, and domain threads, in one place.
 
 ---
 
-## How I Work
+# How I Work
 
 Before building anything:
 
@@ -37,9 +39,11 @@ Clear decisions upfront prevent most downstream issues.
 
 ---
 
-## Tooling
+# Tooling
 
 *Used, not centered. Tools support the system; they are not the system.*
+
+## Senior cloud engineering stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -52,9 +56,29 @@ Clear decisions upfront prevent most downstream issues.
   <img src="https://img.shields.io/badge/APIs-1B4332?style=for-the-badge&logo=swagger&logoColor=F4D03F" alt="APIs" />
 </p>
 
+## AI stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/MCP-1B4332?style=for-the-badge&logoColor=F4D03F" alt="MCP" />
+  <img src="https://img.shields.io/badge/ClawBot-2F5233?style=for-the-badge&logoColor=F4D03F" alt="ClawBot" />
+  <img src="https://img.shields.io/badge/Gravity%20Skills-1B4332?style=for-the-badge&logoColor=E9C46A" alt="Gravity Skills" />
+  <img src="https://img.shields.io/badge/Prompt%20engineering-0d1117?style=for-the-badge&logoColor=F4D03F" alt="Prompt engineering" />
+</p>
+
+## Agentic systems stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logoColor=F4D03F" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Agent%20graphs%20%26%20orchestration-1B4332?style=for-the-badge&logoColor=F4D03F" alt="Agent graphs and orchestration" />
+  <img src="https://img.shields.io/badge/Multi--agent%20workflows-2F5233?style=for-the-badge&logoColor=E9C46A" alt="Multi-agent workflows" />
+</p>
+
 ---
 
-## Why I Build This Way
+# Why I Build This Way
 
 Most engineering problems are not technical limitations.  
 They come from unclear decisions.
@@ -63,10 +87,12 @@ This work is how I refine systems, test ideas, and turn experience into somethin
 
 ---
 
-## Connect
+# Connect
 
 https://www.linkedin.com/in/roy-piring-jr-426a1911a
 
+</article>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=100&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=115&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />
 </div>
