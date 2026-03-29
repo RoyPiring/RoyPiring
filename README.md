@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Roy%20Piring%20Jr.&fontSize=52&fontColor=F4D03F&fontAlignY=38&desc=Senior%20Cloud%20Engineer&descAlignY=54&descSize=18&descColor=E9C46A&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Purpose%20Engineering&fontSize=48&fontColor=F4D03F&fontAlignY=36&desc=Roy%20Piring%20Jr.&descAlignY=52&descSize=20&descColor=E9C46A&animation=twinkling" width="100%" alt="header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Constraints+%C2%B7+tradeoffs+%C2%B7+what+actually+ships;Work+%C2%B7+business+%C2%B7+advisory+%C2%B7+learn+in+public&font=Fira+Code&size=22&duration=3200&pause=900&color=F4D03F&background=00000000&center=true&width=560&height=45" alt="" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Cloud;Security;Agentic;Systems;Multi-cloud;GovTech;Constraints;Delivery&font=Fira+Code&size=28&duration=1600&pause=350&color=F4D03F&background=00000000&center=true&width=320&height=55" alt="" />
 
-### Cloud · systems · production reality
+### Build thread
 
-I build and advise where **constraints** matter—before the diagram becomes debt.
+Engineering with intent—**what** gets built, **why** it’s allowed to run, and **how** it survives contact with reality.
 
 <br/>
 
@@ -18,38 +18,36 @@ I build and advise where **constraints** matter—before the diagram becomes deb
 
 ---
 
-## Four tracks
+## What I’m engineering
+
+Four lanes I actually design and ship against—not slide titles.
 
 | | |
 |:---:|:---|
-| 💼 **Work** | Cloud & systems, networks, backup/DR, cost control, automation & ops. |
-| 🏢 **Business** | Packaging how I deliver—scope, delivery, ops that survive scale. |
-| 🤝 **Advisory** | Smaller teams: architecture, observability, security, AI—**before** it’s locked in. |
-| 🌱 **Learn & build** | Public notes on failure modes, boundaries, patterns—repos below, always in motion. |
+| ☁️ **Multi-cloud** | Footprints across providers: identity, networking, cost, and how failure **moves** between layers. |
+| 🤖 **AI & agentic** | Systems where agents and automation stay **governable**—control, reliability, and ops, not just demos. |
+| 🏛️ **GovTech / regulated** | Environments with hard rules: compliance posture, segmentation, audit trails, operational **control**. |
+| 🏪 **Small business** | Architecture and delivery sized for real teams—tight scope, honest ops, security and cost that **fit**. |
 
 ---
 
-## Stack I touch
+## Stacks & patterns (by lane)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,git,python,bash&perline=9" alt="Stack" />
-</p>
+| ☁️ Multi-cloud | 🤖 AI & agentic | 🏛️ GovTech | 🏪 Small business |
+|:---|:---|:---|:---|
+| AWS · Azure · Terraform · Kubernetes · Docker · Linux · Git | Python · APIs · automation · agents & workflows · observability · guardrails | IAM · network zoning · logging & retention · change control · backup / DR · policy-as-code where it earns its keep | Advisory-first delivery · pragmatic security · cost & capacity discipline · light, maintainable automation · clear handoffs |
 
 ---
 
-## Repo lineup
+## Repos
 
-<p align="center">
-  <a href="https://github.com/RoyPiring/cloud-engineering-systems"><img src="https://img.shields.io/badge/cloud--engineering--systems-1B4332?style=for-the-badge&logo=github&logoColor=F4D03F&labelColor=0d1117" alt="cloud-engineering-systems" /></a>
-  &nbsp;
-  <a href="https://github.com/RoyPiring/agentic-systems-engineering"><img src="https://img.shields.io/badge/agentic--systems-2F5233?style=for-the-badge&logo=github&logoColor=F4D03F&labelColor=0d1117" alt="agentic-systems-engineering" /></a>
-  <br/><br/>
-  <a href="https://github.com/RoyPiring/global-problem-systems-engineering"><img src="https://img.shields.io/badge/global--problem--systems-1B4332?style=for-the-badge&logo=github&logoColor=F4D03F&labelColor=0d1117" alt="global-problem-systems-engineering" /></a>
-  &nbsp;
-  <a href="https://github.com/RoyPiring/government-systems-engineering"><img src="https://img.shields.io/badge/government--systems-2F5233?style=for-the-badge&logo=github&logoColor=F4D03F&labelColor=0d1117" alt="government-systems-engineering" /></a>
-  <br/><br/>
-  <a href="https://github.com/RoyPiring/value-driven-systems-engineering"><img src="https://img.shields.io/badge/value--driven--systems-1B4332?style=for-the-badge&logo=github&logoColor=F4D03F&labelColor=0d1117" alt="value-driven-systems-engineering" /></a>
-</p>
+| Repo | What it’s for |
+|:---|:---|
+| [`RoyPiring/cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | Main through-line—cloud systems, constraints, how things **run**. |
+| [`RoyPiring/agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | Agentic and AI-adjacent systems with **control** and reliability. |
+| [`RoyPiring/global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Cross-domain problems—boundaries, tradeoffs, failure shapes. |
+| [`RoyPiring/government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Regulated-style patterns—compliance, constraints, ops. |
+| [`RoyPiring/value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Outcomes: cost, efficiency, long-term **value**. |
 
 ---
 
