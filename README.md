@@ -46,7 +46,7 @@ Focused systems, each exploring a different dimension of real-world engineering.
 
 ## 🔧 Tooling
 
-<p align="center" style="margin-bottom: 0.35em;"><sub>🏗️ <strong>Infrastructure &amp; Platform</strong></sub></p>
+<p align="center" style="margin-bottom: 0.35em;"><strong>🏗️ Infrastructure &amp; Platform</strong></p>
 <p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
   <img src="https://img.shields.io/badge/Cloud-1B4332?style=flat-square&logoColor=F4D03F" alt="Cloud" />
   <img src="https://img.shields.io/badge/IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="IaC" />
@@ -58,7 +58,7 @@ Focused systems, each exploring a different dimension of real-world engineering.
   <img src="https://img.shields.io/badge/APIs-1B4332?style=flat-square&logo=swagger&logoColor=F4D03F" alt="APIs" />
 </p>
 
-<p align="center" style="margin-bottom: 0.35em;"><sub>🤖 <strong>AI Engineering</strong></sub></p>
+<p align="center" style="margin-bottom: 0.35em;"><strong>🤖 AI Engineering</strong></p>
 <p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/AI%20Integration-1B4332?style=flat-square&logoColor=F4D03F" alt="AI Integration" />
@@ -67,7 +67,7 @@ Focused systems, each exploring a different dimension of real-world engineering.
   <img src="https://img.shields.io/badge/AI%20Workflows-1B4332?style=flat-square&logoColor=E9C46A" alt="AI Workflows" />
 </p>
 
-<p align="center" style="margin-bottom: 0.35em;"><sub>🕸️ <strong>Agentic Systems</strong></sub></p>
+<p align="center" style="margin-bottom: 0.35em;"><strong>🕸️ Agentic Systems</strong></p>
 <p align="center" style="margin-top: 0; margin-bottom: 0;">
   <img src="https://img.shields.io/badge/Agents-1B4332?style=flat-square&logoColor=F4D03F" alt="Agents" />
   <img src="https://img.shields.io/badge/Multi--Agent-2F5233?style=flat-square&logoColor=F4D03F" alt="Multi-Agent" />
