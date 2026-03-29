@@ -1,42 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Purpose%20Engineering&fontSize=48&fontColor=F4D03F&fontAlignY=42&animation=twinkling" width="100%" alt="Purpose Engineering" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Senior%20Cloud%20Engineer&fontSize=44&fontColor=F4D03F&fontAlignY=36&desc=Roy%20Piring%20Jr.&descAlignY=54&descSize=22&descColor=E9C46A&animation=twinkling" width="100%" alt="Senior Cloud Engineer — Roy Piring Jr." />
 </div>
-
-# Purpose Engineering
-
-### Roy Piring Jr.
 
 Engineering with intent — what gets built, why it’s allowed to run, and how it holds up under real constraints.
 
 ---
 
-## Core System
+## Repos
 
-👉 https://github.com/RoyPiring/cloud-engineering-systems
+Core system, what I actually build, and domain threads — one place.
 
-End-to-end cloud systems with documented constraints, tradeoffs, and how they behave in real environments.
-
----
-
-## What I Actually Build
-
-Four lanes I actively design and ship against:
-
-### Multi-cloud
-
-Identity, networking, cost, and how systems behave across providers.
-
-### AI & Agentic Systems
-
-Automation and agent-based workflows with control, reliability, and operational boundaries.
-
-### Regulated Systems
-
-Environments with hard constraints — compliance, segmentation, auditability, and operational control.
-
-### Small Business Systems
-
-Architecture for real teams — tight scope, cost-aware, maintainable, and practical.
+| Repo | What it covers |
+|:---|:---|
+| [`RoyPiring/cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | **Core system** — end-to-end cloud systems, documented constraints, tradeoffs, real-world behavior. |
+| [`RoyPiring/global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | **Global / cross-domain** — boundaries, tradeoffs, how problems span contexts. |
+| [`RoyPiring/government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | **GovTech / regulated** — compliance, segmentation, auditability, operational control. |
+| [`RoyPiring/agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | **AI & agentic** — automation and agent workflows with control, reliability, and ops boundaries. |
+| [`RoyPiring/value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | **Value & delivery** — outcomes, cost, efficiency; architecture sized for real teams. |
 
 ---
 
@@ -53,22 +33,28 @@ Clear decisions upfront prevent most downstream issues.
 
 ---
 
-## System Domains
+## Tooling
 
-- agentic-systems-engineering  
-- global-problem-systems-engineering  
-- government-systems-engineering  
-- value-driven-systems-engineering  
+*Used, not centered — tools support the system; they aren’t the system.*
 
-Each repo focuses on system design, boundaries, and tradeoffs.
+```yaml
+# tooling.artifact — representative touch surfaces (not an architecture diagram)
+stack:
+  cloud:        [AWS, Azure]
+  platform:     [Terraform, Kubernetes, Docker, Linux]
+  build_integrate: [Python, APIs]
+```
 
----
-
-## Tooling (Used, Not Centered)
-
-AWS · Azure · Terraform · Kubernetes · Docker · Linux · Python · APIs
-
-Tools support the system. They are not the system.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/APIs-1B4332?style=for-the-badge&logo=swagger&logoColor=F4D03F" alt="APIs" />
+</p>
 
 ---
 
