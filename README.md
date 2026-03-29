@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Purpose%20Engineering&fontSize=48&fontColor=F4D03F&fontAlignY=42&animation=twinkling" width="100%" alt="Purpose Engineering" />
+</div>
+
 # Purpose Engineering
 
 ### Roy Piring Jr.
@@ -80,3 +84,7 @@ This work is how I refine systems, test ideas, and turn experience into somethin
 ## Connect
 
 https://www.linkedin.com/in/roy-piring-jr-426a1911a
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=100&section=footer&fontColor=F4D03F&animation=twinkling" width="100%" alt="" />
+</div>
