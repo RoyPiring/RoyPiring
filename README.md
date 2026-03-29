@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Senior%20Cloud%20Engineer&fontSize=44&fontColor=F4D03F&fontAlignY=36&desc=Roy%20Piring%20Jr.&descAlignY=54&descSize=22&descColor=E9C46A&animation=twinkling" width="100%" alt="Senior Cloud Engineer — Roy Piring Jr." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=200&section=header&text=Purpose%20Engineering&fontSize=48&fontColor=F4D03F&fontAlignY=42&animation=twinkling" width="100%" alt="Purpose Engineering" />
 </div>
+
+# Roy Piring Jr.
+
+### Senior Cloud Engineer
 
 Engineering with intent — what gets built, why it’s allowed to run, and how it holds up under real constraints.
 
