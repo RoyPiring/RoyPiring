@@ -37,52 +37,16 @@ Clear decisions upfront prevent most downstream issues.
 
 ---
 
-# Tooling
+## Tooling
 
-<div align="center">
+**Infrastructure & Platform:**  
+Cloud • IaC • Containers • Kubernetes • Networking • Observability • Automation • APIs  
 
-## Cloud engineering
+**AI Engineering:**  
+LLMs • AI Integration • AI Dev Tools • Prompting • AI Workflows  
 
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/APIs-1B4332?style=for-the-badge&logo=swagger&logoColor=F4D03F" alt="APIs" />
-</p>
-
-<div align="center">
-
-## AI integration
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/MCP-1B4332?style=for-the-badge&logoColor=F4D03F" alt="MCP" />
-  <img src="https://img.shields.io/badge/ClawBot-2F5233?style=for-the-badge&logoColor=F4D03F" alt="ClawBot" />
-  <img src="https://img.shields.io/badge/Gravity%20Skills-1B4332?style=for-the-badge&logoColor=E9C46A" alt="Gravity Skills" />
-  <img src="https://img.shields.io/badge/Prompt%20engineering-0d1117?style=for-the-badge&logoColor=F4D03F" alt="Prompt engineering" />
-</p>
-
-<div align="center">
-
-## Agentic orchestration
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logoColor=F4D03F" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Agent%20graphs%20%26%20orchestration-1B4332?style=for-the-badge&logoColor=F4D03F" alt="Agent graphs and orchestration" />
-  <img src="https://img.shields.io/badge/Multi--agent%20workflows-2F5233?style=for-the-badge&logoColor=E9C46A" alt="Multi-agent workflows" />
-</p>
+**Agentic Systems:**  
+Agents • Multi-Agent • Orchestration • State • Memory • Tooling  
 
 ---
 
