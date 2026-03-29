@@ -12,9 +12,7 @@ Engineering with intent: what gets built, why it's allowed to run, and how it ho
 
 ---
 
-# Repos
-
-Core system, what I actually build, and domain threads, in one place.
+# Portfolio systems I'm currently working on in one place
 
 | Repo | What it covers |
 |:---|:---|
@@ -41,9 +39,11 @@ Clear decisions upfront prevent most downstream issues.
 
 # Tooling
 
-*Used, not centered. Tools support the system; they are not the system.*
+<div align="center">
 
-## Senior cloud engineering stack
+## Cloud engineering
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -56,7 +56,11 @@ Clear decisions upfront prevent most downstream issues.
   <img src="https://img.shields.io/badge/APIs-1B4332?style=for-the-badge&logo=swagger&logoColor=F4D03F" alt="APIs" />
 </p>
 
-## AI stack
+<div align="center">
+
+## AI integration
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -67,7 +71,11 @@ Clear decisions upfront prevent most downstream issues.
   <img src="https://img.shields.io/badge/Prompt%20engineering-0d1117?style=for-the-badge&logoColor=F4D03F" alt="Prompt engineering" />
 </p>
 
-## Agentic systems stack
+<div align="center">
+
+## Agentic orchestration
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logoColor=F4D03F" alt="LangGraph" />
