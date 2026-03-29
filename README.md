@@ -1,103 +1,48 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Senior+Cloud+Engineer;Architecture+%C2%B7+constraints+%C2%B7+tradeoffs&font=Fira+Code&size=22&duration=3800&pause=1100&color=58A6FF&center=true&width=520&height=50" alt="" />
+
 # Roy Piring Jr.
 
-Senior Cloud Engineer
+Cloud systems where **constraints** and **tradeoffs** are explicit—not afterthoughts.
 
-Designing and operating cloud systems where constraints matter. Most problems come down to understanding tradeoffs before anything gets built.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-roy--piring--jr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-piring-jr-426a1911a)
 
----
-
-## What I Focus On
-
-- Cloud architecture and system design  
-- Network design and segmentation  
-- Backup and recovery systems  
-- Cost optimization and resource control  
-- Automation and operational tooling  
+</div>
 
 ---
 
-## Engineering Systems
+## Focus
 
-This is where I spend most of my time outside of work.
-
-I use these repos to break down how systems are designed, including constraints, tradeoffs, and failure considerations.
-
-**Main system:**
-👉 https://github.com/RoyPiring/cloud-engineering-systems
+Cloud & system design · networks & segmentation · backup & recovery · cost & resource control · automation & ops tooling
 
 ---
 
-## System Domains
+## Engineering systems
 
-These repos represent different areas I’m building out over time:
+Outside work I break down how systems are designed: constraints, failure, tradeoffs.
 
-- **agentic-systems-engineering**  
-  AI and agent-based workflows applied to real systems, focused on control, reliability, and practical use  
+**Main line:** [**cloud-engineering-systems**](https://github.com/RoyPiring/cloud-engineering-systems)
 
-- **global-problem-systems-engineering**  
-  System design approaches across broader problem domains, focusing on boundaries and tradeoffs  
-
-- **government-systems-engineering**  
-  Patterns derived from regulated environments, emphasizing constraints, compliance, and operational control  
-
-- **value-driven-systems-engineering**  
-  Systems designed around outcomes, focusing on how decisions impact cost, efficiency, and long-term value  
-
-Each follows the same approach: clear design, tradeoffs, and real-world constraints.
+| Domain | Repo |
+|--------|------|
+| Agentic | [**agentic-systems-engineering**](https://github.com/RoyPiring/agentic-systems-engineering) — AI/agent workflows; control & reliability |
+| Global problems | [**global-problem-systems-engineering**](https://github.com/RoyPiring/global-problem-systems-engineering) — boundaries & tradeoffs across domains |
+| Government | [**government-systems-engineering**](https://github.com/RoyPiring/government-systems-engineering) — compliance, constraints, operational control |
+| Value-driven | [**value-driven-systems-engineering**](https://github.com/RoyPiring/value-driven-systems-engineering) — outcomes; cost, efficiency, long-term value |
 
 ---
 
-## How I Approach Problems
+## How I work
 
-Before building anything:
+**Before building:** what problem, what constraints, what failure looks like, what tradeoffs you’re taking.
 
-- What problem is actually being solved  
-- What constraints exist  
-- What failure looks like  
-- What tradeoffs are being made  
+**With teams:** architecture, observability, security, and pragmatic AI—docs, design options, repetitive ops—without losing control of cost and reliability.
 
-Clear decisions upfront make everything else easier.
+**This GitHub:** decisions, tradeoffs, patterns that hold under real constraints.
 
 ---
 
-## Where I Add Value
-
-I work with small and mid-sized teams to help them think through technical decisions before they commit to building.
-
-Focus areas include architecture, observability, security, and integrating newer technologies like AI in a controlled way.
-
----
-
-## AI in My Workflow
-
-I use AI where it improves speed and clarity:
-
-- Drafting and refining system documentation  
-- Exploring design options and edge cases  
-- Assisting with repetitive operational work  
-
-The real challenge is managing control, cost, and reliability as these systems scale.
-
----
-
-## How I Continue to Develop
-
-Outside of work, I evaluate newer technologies to understand how they fit into real systems.
-
-The focus is on what can be applied without introducing unnecessary complexity, and integrating that into both my workflows and the systems I build.
-
----
-
-## What This GitHub Is
-
-A record of how I think about systems:
-
-- Decisions  
-- Tradeoffs  
-- Patterns that hold up under real constraints  
-
----
-
-## Connect
-
-https://www.linkedin.com/in/roy-piring-jr-426a1911a
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,git,python,bash" alt="Stack" />
+</p>
