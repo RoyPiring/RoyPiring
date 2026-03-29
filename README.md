@@ -8,32 +8,21 @@
 
 ## Senior Cloud Engineer
 
-Engineering with intent: what gets built, why it's allowed to run, and how it holds up under real constraints.
+Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
 
 ---
 
-# Portfolio systems I'm currently working on in one place
+## Systems Portfolio
 
-| Repo | What it covers |
+Focused systems, each exploring a different dimension of real-world engineering.
+
+| Repo | Focus |
 |:---|:---|
-| [`RoyPiring/cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | **Core system:** end-to-end cloud systems, documented constraints, tradeoffs, real-world behavior. |
-| [`RoyPiring/global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | **Global / cross-domain:** boundaries, tradeoffs, how problems span contexts. |
-| [`RoyPiring/government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | **GovTech / regulated:** compliance, segmentation, auditability, operational control. |
-| [`RoyPiring/agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | **AI & agentic:** automation and agent workflows with control, reliability, and ops boundaries. |
-| [`RoyPiring/value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | **Value & delivery:** outcomes, cost, efficiency; architecture sized for real teams. |
-
----
-
-# How I Work
-
-Before building anything:
-
-- What problem is actually being solved  
-- What constraints exist  
-- What failure looks like  
-- What tradeoffs are being made  
-
-Clear decisions upfront prevent most downstream issues.
+| [`cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | End-to-end cloud systems: constraints, tradeoffs, operational behavior |
+| [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Cross-domain systems: boundaries, scaling decisions, systemic tradeoffs |
+| [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Regulated environments: compliance, segmentation, auditability |
+| [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI & agent workflows: orchestration, control, reliability |
+| [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Cost, efficiency, and outcome-driven architecture |
 
 ---
 
@@ -81,12 +70,25 @@ Clear decisions upfront prevent most downstream issues.
 
 ---
 
-# Why I Build This Way
+## How I Work
 
-Most engineering problems are not technical limitations.  
+Before building:
+
+- Define the real problem  
+- Identify constraints  
+- Understand failure modes  
+- Make tradeoffs explicit  
+
+Clear decisions upfront prevent downstream instability.
+
+---
+
+## Engineering Philosophy
+
+Most engineering failures are not technical.  
 They come from unclear decisions.
 
-This work is how I refine systems, test ideas, and turn experience into something reusable.
+This work turns experience into systems that can be reasoned about, tested, and reused.
 
 ---
 
