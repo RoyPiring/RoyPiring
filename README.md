@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=220&section=header&text=Purpose%20Engineering&fontSize=56&fontColor=F4D03F&fontAlignY=42&font=Inter&animation=twinkling" width="100%" alt="Purpose Engineering" />
 </div>
 
-<article style="font-size: 1.125rem; line-height: 1.65;">
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems-129-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 129" />
+  <img src="https://img.shields.io/badge/Domains-9-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 9" />
+  <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/Updated-2026--05--04-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-05-04" />
+</p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
 
@@ -10,7 +15,7 @@
 
 ## 🧭 Engineering Philosophy
 
-Most engineering failures are not technical.  
+Most engineering failures are not technical.
 They come from unclear decisions.
 
 💡 This work turns experience into systems that can be reasoned about, tested, and reused.
@@ -21,10 +26,10 @@ They come from unclear decisions.
 
 Before building:
 
-- 🎯 Define the real problem  
-- 🧩 Identify constraints  
-- ⚠️ Understand failure modes  
-- ⚖️ Make tradeoffs explicit  
+- 🎯 Define the real problem
+- 🧩 Identify constraints
+- ⚠️ Understand failure modes
+- ⚖️ Make tradeoffs explicit
 
 Clear decisions upfront prevent downstream instability.
 
@@ -34,13 +39,39 @@ Clear decisions upfront prevent downstream instability.
 
 Focused systems, each exploring a different dimension of real-world engineering.
 
-| Repo | Focus |
-|:---|:---|
-| [`cloud-engineering-systems`](https://github.com/RoyPiring/cloud-engineering-systems) | End-to-end systems: constraints, tradeoffs, operational behavior |
-| [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI & agent workflows: orchestration, control, reliability |
-| [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Regulated environments: compliance, segmentation, auditability |
-| [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Cost, efficiency, and outcome-driven architecture |
-| [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Cross-domain systems: boundaries, scaling decisions, systemic tradeoffs |
+### 🛠️ Engineering
+
+The technical foundation. Cloud, AI, security, governance, and civic systems built to hold under real load.
+
+| Repo | Focus | Systems |
+|:---|:---|---:|
+| [`cloud-systems-engineering`](./cloud-systems-engineering/) | Cloud platforms engineered for scale, reliability, and uptime. | 2 |
+| [`government-systems-engineering`](./government-systems-engineering/) | Cloud systems engineered for federal-grade security and compliance. | 2 |
+| [`governance-systems-engineering`](./governance-systems-engineering/) | Systems aligned to enterprise governance, security, and architecture standards. | 1 |
+| [`agentic-systems-engineering`](./agentic-systems-engineering/) | AI agents and orchestration that move from prompt to outcome. | 3 |
+| [`global-problem-systems-engineering`](./global-problem-systems-engineering/) | Population-scale systems built for civic and public-good outcomes. | 1 |
+
+### 🎯 Delivery
+
+How engineering reaches real people. Customer engagements, founder operations, and the playbooks that make delivery repeatable.
+
+| Repo | Focus | Systems |
+|:---|:---|---:|
+| [`delivery-systems-engineering`](./delivery-systems-engineering/) | Multi-project, multi-team customer engagements built to scale from one client to many. | 0 |
+| [`value-driven-systems-engineering`](./value-driven-systems-engineering/) | Solutions and strategy engineered for small and growing business operators. | 2 |
+| [`solo-startup-systems-engineering`](./solo-startup-systems-engineering/) | Systems for building and scaling a startup as a solo operator. | 4 |
+| [`leadership-systems-engineering`](./leadership-systems-engineering/) | Leadership frameworks from formal coursework, engineered as working systems. | 0 |
+| [`applied-frameworks-systems-engineering`](./applied-frameworks-systems-engineering/) | Frameworks from books and methodologies, engineered into working systems. | 2 |
+
+### 🌐 Cross-Domain Engineering
+
+One repo, every domain. End-to-end builds across cloud, AI, security, data, and platform.
+
+| Repo | Focus | Systems |
+|:---|:---|---:|
+| [`nextwork-systems-engineering`](./nextwork-systems-engineering/) | Validated end-to-end builds across cloud, AI, security, data, and platform. | 112 |
+
+Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Each system inside has four sections: Overview, Architecture, Implementation, and Validation, with build outcomes shown as a checkmark list. The original source document is kept in `documents/`.
 
 ---
 
@@ -83,8 +114,7 @@ Focused systems, each exploring a different dimension of real-world engineering.
 
 LinkedIn: https://www.linkedin.com/in/roy-piring-jr-426a1911a
 
-</article>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=115&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />
 </div>
+
