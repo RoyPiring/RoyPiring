@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Systems-129-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 129" />
-  <img src="https://img.shields.io/badge/Domains-9-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 9" />
+  <img src="https://img.shields.io/badge/Domains-11-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 11" />
   <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-  <img src="https://img.shields.io/badge/Updated-2026--05--04-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-05-04" />
+  <img src="https://img.shields.io/badge/Updated-2026--05--06-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-05-06" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
