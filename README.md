@@ -47,9 +47,9 @@ The technical foundation. Cloud, AI, security, governance, and civic systems bui
 |:---|:---|---:|
 | [`cloud-systems-engineering`](https://github.com/RoyPiring/cloud-systems-engineering) | Cloud platforms engineered for scale, reliability, and uptime. | 2 |
 | [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Cloud systems engineered for federal-grade security and compliance. | 2 |
-| [`governance-systems-engineering`](https://github.com/RoyPiring/governance-systems-engineering) | Systems aligned to enterprise governance, security, and architecture standards. | 2 |
+| [`governance-systems-engineering`](https://github.com/RoyPiring/governance-systems-engineering) | Systems aligned to enterprise governance, security, and architecture standards. | 1 |
 | [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI agents and orchestration that move from prompt to outcome. | 3 |
-| [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Population-scale systems built for civic and public-good outcomes. | 1 |
+| [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Population-scale systems built for civic and public-good outcomes. | 2 |
 
 ### 🎯 Delivery
 
