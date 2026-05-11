@@ -48,7 +48,7 @@ The technical foundation. Cloud, AI, security, governance, and civic systems bui
 | [`cloud-systems-engineering`](https://github.com/RoyPiring/cloud-systems-engineering) | Cloud platforms engineered for scale, reliability, and uptime. | 2 |
 | [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Cloud systems engineered for federal-grade security and compliance. | 2 |
 | [`governance-systems-engineering`](https://github.com/RoyPiring/governance-systems-engineering) | Systems aligned to enterprise governance, security, and architecture standards. | 1 |
-| [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI agents and orchestration that move from prompt to outcome. | 4 |
+| [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI agents and orchestration that move from prompt to outcome. | 3 |
 | [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Population-scale systems built for civic and public-good outcomes. | 2 |
 
 ### 🎯 Delivery
@@ -57,7 +57,7 @@ How engineering reaches real people. Customer engagements, founder operations, a
 
 | Repo | Focus | Systems |
 |:---|:---|---:|
-| [`delivery-systems-engineering`](https://github.com/RoyPiring/delivery-systems-engineering) | Multi-project, multi-team customer engagements built to scale from one client to many. | 0 |
+| [`delivery-systems-engineering`](https://github.com/RoyPiring/delivery-systems-engineering) | Multi-project, multi-team customer engagements built to scale from one client to many. | 1 |
 | [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Solutions and strategy engineered for small and growing business operators. | 2 |
 | [`solo-startup-systems-engineering`](https://github.com/RoyPiring/solo-startup-systems-engineering) | Systems for building and scaling a startup as a solo operator. | 4 |
 | [`leadership-systems-engineering`](https://github.com/RoyPiring/leadership-systems-engineering) | Leadership frameworks from formal coursework, engineered as working systems. | 2 |
