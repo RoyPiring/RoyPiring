@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-138-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 138" />
+  <img src="https://img.shields.io/badge/Systems-139-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 139" />
 , <img src="https://img.shields.io/badge/Domains-11-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 11" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
 , <img src="https://img.shields.io/badge/Updated-2026--05--15-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-05-15" />
@@ -61,7 +61,7 @@ How engineering reaches real people. Customer engagements, founder operations, a
 | [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Solutions and strategy engineered for small and growing business operators. | 2 |
 | [`solo-startup-systems-engineering`](https://github.com/RoyPiring/solo-startup-systems-engineering) | Systems for building and scaling a startup as a solo operator. | 5 |
 | [`leadership-systems-engineering`](https://github.com/RoyPiring/leadership-systems-engineering) | Leadership frameworks from formal coursework, engineered as working systems. | 2 |
-| [`applied-frameworks-systems-engineering`](https://github.com/RoyPiring/applied-frameworks-systems-engineering) | Frameworks from books and methodologies, engineered into working systems. | 2 |
+| [`applied-frameworks-systems-engineering`](https://github.com/RoyPiring/applied-frameworks-systems-engineering) | Frameworks from books and methodologies, engineered into working systems. | 3 |
 
 ### 🌐 Cross-Domain Engineering
 
