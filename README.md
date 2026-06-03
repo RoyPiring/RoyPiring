@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-146-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 146" />
+  <img src="https://img.shields.io/badge/Systems-147-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 147" />
 , <img src="https://img.shields.io/badge/Domains-11-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 11" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-, <img src="https://img.shields.io/badge/Updated-2026--05--25-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-05-25" />
+, <img src="https://img.shields.io/badge/Updated-2026--06--03-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-06-03" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
@@ -57,7 +57,7 @@ How engineering reaches real people. Customer engagements, founder operations, a
 
 | Repo | Focus | Systems |
 |:---|:---|---:|
-| [`delivery-systems-engineering`](https://github.com/RoyPiring/delivery-systems-engineering) | Multi-project, multi-team customer engagements built to scale from one client to many. | 1 |
+| [`delivery-systems-engineering`](https://github.com/RoyPiring/delivery-systems-engineering) | Multi-project, multi-team customer engagements built to scale from one client to many. | 2 |
 | [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Solutions and strategy engineered for small and growing business operators. | 3 |
 | [`solo-startup-systems-engineering`](https://github.com/RoyPiring/solo-startup-systems-engineering) | Systems for building and scaling a startup as a solo operator. | 6 |
 | [`leadership-systems-engineering`](https://github.com/RoyPiring/leadership-systems-engineering) | Leadership frameworks from formal coursework, engineered as working systems. | 2 |
