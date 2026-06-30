@@ -114,7 +114,7 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 
 LinkedIn: https://www.linkedin.com/in/roy-piring-jr-426a1911a
 
-[Dashboard](https://htmlpreview.github.io/?https://github.com/RoyPiring/RoyPiring/blob/main/dashboard.html)
+Dashboard: https://roypiring.github.io/dashboard.html
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=115&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />
