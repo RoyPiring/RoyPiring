@@ -1,44 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=264653&height=200&section=header&text=Mastery,%20Proven&fontSize=52&fontColor=F4D03F&fontAlignY=42&font=Inter&animation=twinkling" width="100%" alt="Mastery, Proven" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=264653&height=200&section=header&text=Mastery,%20Hands-On&fontSize=50&fontColor=F4D03F&fontAlignY=42&font=Inter&animation=twinkling" width="100%" alt="Mastery, Hands-On" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tracks-6-2F5233?style=for-the-badge&labelColor=0d1117" alt="Tracks: 6" />
 , <img src="https://img.shields.io/badge/Systems-0-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 0" />
-, <img src="https://img.shields.io/badge/Target-100%20each-264653?style=for-the-badge&labelColor=0d1117" alt="Target: 100 each" />
+, <img src="https://img.shields.io/badge/Goal-Amateur%20to%20Expert-264653?style=for-the-badge&labelColor=0d1117" alt="Goal: Amateur to Expert" />
 , <img src="https://img.shields.io/badge/Not-a%20degree-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Not a degree" />
 </p>
 
-🎓 Six fields I study for love, not work. Each one a run to command, proven by building it and teaching it back.
+👋 Glad you stopped by. These are six fields I love, and this is me building my way into them by hand, one system at a time, instead of only reading about them.
 
 ---
 
-## 📌 What this is
+## 🌱 What I'm doing here
 
-The shape of a PhD, rebuilt as hands-on projects. I take a field I keep coming back to and work through real end-to-end builds until an amateur reaches principal-level command: the point where you could run the practice or be the person others ask. Same generator pipeline as my [engineering repos](./README.md), same standard, one build at a time.
+I take a field I keep coming back to and actually build in it. Real end-to-end systems, exercise scenarios, hands-on problems, not chapters I skim and forget. The aim is the kind of deep, working command that a PhD or a long apprenticeship is meant to give you, reached by doing the work rather than only studying it.
 
-Honest by design: a route to command, not a degree. Every build runs against a known result and gets taught back, so what shows here is proven, not read about.
+AI is what makes this realistic on my own time. Instead of years of lectures and stacks of books, I use AI to move faster: build, integrate emerging tools, run through scenarios, and learn by shipping. Same generator pipeline as my [engineering repos](./README.md), same standard, one build at a time.
 
-## 🔧 Tooling & Craft
+## 🥋 Amateur to expert, the long way
 
-<p align="center" style="margin-bottom: 0.35em;"><strong>🧠 Science of the body and brain</strong></p>
-<p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
-  <img src="https://img.shields.io/badge/Python-1B4332?style=flat-square&logo=python&logoColor=F4D03F" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-7B42BC?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenSim-264653?style=flat-square&logoColor=F4D03F" alt="OpenSim" />
-  <img src="https://img.shields.io/badge/Survival%20Analysis-2F5233?style=flat-square&logoColor=F4D03F" alt="Survival Analysis" />
-  <img src="https://img.shields.io/badge/Aging%20Clocks-1B4332?style=flat-square&logoColor=F4D03F" alt="Aging Clocks" />
-  <img src="https://img.shields.io/badge/NeuroAI%20%2F%20BCI-7B42BC?style=flat-square&logoColor=white" alt="NeuroAI / BCI" />
-</p>
-<p align="center" style="margin-bottom: 0.35em;"><strong>🏗️ The built world and the capital that moves it</strong></p>
-<p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
-  <img src="https://img.shields.io/badge/GIS-1B4332?style=flat-square&logo=qgis&logoColor=F4D03F" alt="GIS" />
-  <img src="https://img.shields.io/badge/BIM-264653?style=flat-square&logoColor=F4D03F" alt="BIM" />
-  <img src="https://img.shields.io/badge/Generative%20Design-2F5233?style=flat-square&logoColor=F4D03F" alt="Generative Design" />
-  <img src="https://img.shields.io/badge/Pro--forma%20%2F%20AVM-1B4332?style=flat-square&logoColor=F4D03F" alt="Pro-forma / AVM" />
-  <img src="https://img.shields.io/badge/Quant%20%2F%20Derivatives-7B42BC?style=flat-square&logoColor=white" alt="Quant / Derivatives" />
-  <img src="https://img.shields.io/badge/Risk%20Modeling-264653?style=flat-square&logoColor=F4D03F" alt="Risk Modeling" />
-</p>
+Nobody starts a master. A tradesperson goes from apprentice to journeyman to master. A martial artist earns every belt from white to black. That is the path here. I start each field at the beginning and work up level by level, one system at a time, until the work itself shows what I can do. No certificate standing in for the reps, no shortcut. Just the reps, in the open.
 
 ---
 
@@ -64,15 +47,15 @@ Designing, developing, and financing the physical and economic world.
 
 ---
 
-## 🎯 What I get out of this
+## 🌟 Why it's worth it
 
-- **Command, not a survey.** Enough range in a field to run the practice or be the go-to, not a skim of the headlines.
-- **Proof, not claims.** Every build ships a runnable artifact, a self-check against a known result, and a teach-back. If it is here, I can do it again and explain it.
-- **A public body of work.** Real, reproducible systems per field, in the open, built to the same standard as the engineering repos.
-- **Optionality.** Each track is a launchpad: a practice to run, a product to ship, a founder path if I want it.
-- **A cross-domain edge.** The science and the built world sharpen the engineering and advisory work, and the reverse. Depth in a few things I love, not spread thin.
+- **Learning by building.** Systems I made work, not videos I watched once. What I build is what actually sticks.
+- **My time back.** What used to mean years of coursework, AI helps me compress into hands-on reps. Real depth, a fraction of the hours.
+- **Room to grow.** Six fields I genuinely love, each with plenty of headroom, kept alive alongside the day-to-day work.
+- **Something that lasts.** A public, reproducible body of work in each field, built to the same bar as the engineering repos.
+- **A way to make a difference.** Real command in these areas opens doors: a practice to run, a product to ship, a chance to help where it counts.
 
-Track it filling up on the [build dashboard](https://roypiring.github.io/dashboard.html).
+Watch it fill up over time on the [build tracker](https://roypiring.github.io/dashboard.html).
 
 ---
 
