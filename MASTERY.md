@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tracks-6-2F5233?style=for-the-badge&labelColor=0d1117" alt="Tracks: 6" />
 , <img src="https://img.shields.io/badge/Target-600%20builds-1B4332?style=for-the-badge&labelColor=0d1117" alt="Target: 600 builds" />
-, <img src="https://img.shields.io/badge/Onboarded-2%2F600-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Onboarded: 2 of 600" />
+, <img src="https://img.shields.io/badge/Onboarded-0%2F600-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Onboarded: 0 of 600" />
 , <img src="https://img.shields.io/badge/Not-a%20degree-264653?style=for-the-badge&labelColor=0d1117" alt="Not a degree" />
 </p>
 
@@ -29,7 +29,7 @@ The body and the brain: how we age, how we move, how we think.
 
 | Track | Focus | Progress |
 |:---|:---|---:|
-| [Biology of Aging & Geroscience](https://github.com/RoyPiring/mastery-aging) | Omics and survival-analysis pipelines, aging clocks, intervention-study designs, and longevity diagnostics. | 1 / 100 |
+| [Biology of Aging & Geroscience](https://github.com/RoyPiring/mastery-aging) | Omics and survival-analysis pipelines, aging clocks, intervention-study designs, and longevity diagnostics. | 0 / 100 |
 | [Kinesiology & Human Movement](https://github.com/RoyPiring/mastery-kinesiology) | Biomechanics modeling (OpenSim, OpenCap), wearable and movement analytics, and machine learning on movement. | 0 / 100 |
 | [Computational Neuroscience](https://github.com/RoyPiring/mastery-neuroscience) | Neural models, encoding and decoding on real data, brain-computer-interface decoders, and NeuroAI. | 0 / 100 |
 
@@ -40,7 +40,7 @@ Designing, developing, and financing the physical and economic world.
 | Track | Focus | Progress |
 |:---|:---|---:|
 | [Residential Architecture](https://github.com/RoyPiring/mastery-architecture) | Computational and generative design, building-performance simulation, BIM, and prefab and digital fabrication. | 0 / 100 |
-| [Real Estate Development](https://github.com/RoyPiring/mastery-real-estate-development) | Algorithmic underwriting and pro-forma modeling, an automated valuation model, GIS site selection, and a data-driven developer product. | 1 / 100 |
+| [Real Estate Development](https://github.com/RoyPiring/mastery-real-estate-development) | Algorithmic underwriting and pro-forma modeling, an automated valuation model, GIS site selection, and a data-driven developer product. | 0 / 100 |
 | [Quantitative Finance](https://github.com/RoyPiring/mastery-finance) | Quantitative finance and derivatives, algorithmic and machine-learning trading, portfolio optimization, and risk modeling. | 0 / 100 |
 
 ---
