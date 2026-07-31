@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/NextWork-Live%20Cohort-7B42BC?style=for-the-badge&labelColor=0d1117" alt="NextWork Live Cohort" />
-, <img src="https://img.shields.io/badge/Systems-0%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 0 of 100" />
+, <img src="https://img.shields.io/badge/Systems-1%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 1 of 100" />
 , <img src="https://img.shields.io/badge/Cost-Free-2F5233?style=for-the-badge&labelColor=0d1117" alt="Cost: Free" />
 , <img src="https://img.shields.io/badge/Beginners-Welcome-264653?style=for-the-badge&labelColor=0d1117" alt="Beginners welcome" />
 </p>
@@ -37,7 +37,7 @@ Every build is documented as a system, with its architecture diagram, a numbered
 
 ## 🥋 The road to 100
 
-**Just getting started.** One project a week, built live, in the open, toward 100. Each build leaves behind four things: a validated working system, a stakeholder readout, a teach-back, and an honest after-action review.
+**1 shipped, 99 to go.** One project a week, built live, in the open, toward 100. Each build leaves behind four things: a validated working system, a stakeholder readout, a teach-back, and an honest after-action review.
 
 Watch it fill up over time on the [build tracker](https://roypiring.github.io/dashboard.html).
 
