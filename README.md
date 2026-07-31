@@ -116,6 +116,8 @@ LinkedIn: https://www.linkedin.com/in/roy-piring-jr-426a1911a
 
 Mastery: [MASTERY.md](./MASTERY.md)
 
+Build & Brew: [BUILD-AND-BREW.md](./BUILD-AND-BREW.md)
+
 Tracker: https://roypiring.github.io/dashboard.html
 
 <div align="center">
