@@ -4,18 +4,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/NextWork-Live%20Cohort-7B42BC?style=for-the-badge&labelColor=0d1117" alt="NextWork Live Cohort" />
-, <img src="https://img.shields.io/badge/Systems-5%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 5 of 100" />
+, <img src="https://img.shields.io/badge/Systems-0%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 0 of 100" />
 , <img src="https://img.shields.io/badge/Cost-Free-2F5233?style=for-the-badge&labelColor=0d1117" alt="Cost: Free" />
 , <img src="https://img.shields.io/badge/Beginners-Welcome-264653?style=for-the-badge&labelColor=0d1117" alt="Beginners welcome" />
 </p>
 
-🥋 Every week we build one real AI project together, live, in about 45 minutes. The dojo is free, beginners are welcome, and you never have to speak. Typing in the chat counts.
+🥋 Every week we build one real AI project together, live. The dojo is free, beginners are welcome, and you never have to speak. Typing in the chat counts.
 
 ---
 
 ## 🌱 What this is
 
-Build & Brew is the NextWork live cohort, and I run it as the Build Master. Each week the room builds one real, end-to-end AI project together in about 45 minutes, on the NextWork Discord. You can build along or just watch. Every build lands in a GitHub repo, finished or not, and the point is plain: practice, and proof you can do the work. No job promises, and no resume help. Just the reps, in the open.
+Build & Brew is the NextWork live cohort, and I run it as the Build Master. Each week the room builds one real, end-to-end AI project together on the NextWork Discord. You can build along or just watch. Every build lands in a GitHub repo, finished or not, and the point is plain: practice, and proof you can do the work. No job promises, and no resume help. Just the reps, in the open.
 
 A new project every week, posted in Discord. Miss a week or several, and there is nothing to catch up on. Did not finish last week? That is exactly where we start.
 
@@ -37,7 +37,7 @@ Every build is documented as a system, with its architecture diagram, a numbered
 
 ## 🥋 The road to 100
 
-**5 shipped, 95 to go.** One project a week, built live, in the open. Each build leaves behind four things: a validated working system, a stakeholder readout, a teach-back, and an honest after-action review.
+**Just getting started.** One project a week, built live, in the open, toward 100. Each build leaves behind four things: a validated working system, a stakeholder readout, a teach-back, and an honest after-action review.
 
 Watch it fill up over time on the [build tracker](https://roypiring.github.io/dashboard.html).
 
