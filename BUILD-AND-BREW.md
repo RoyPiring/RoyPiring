@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/NextWork-Live%20Cohort-7B42BC?style=for-the-badge&labelColor=0d1117" alt="NextWork Live Cohort" />
-, <img src="https://img.shields.io/badge/Systems-2%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 2 of 100" />
+, <img src="https://img.shields.io/badge/Systems-3%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 3 of 100" />
 , <img src="https://img.shields.io/badge/Cost-Free-2F5233?style=for-the-badge&labelColor=0d1117" alt="Cost: Free" />
 , <img src="https://img.shields.io/badge/Beginners-Welcome-264653?style=for-the-badge&labelColor=0d1117" alt="Beginners welcome" />
 </p>
