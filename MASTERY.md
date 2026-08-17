@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tracks-6-2F5233?style=for-the-badge&labelColor=0d1117" alt="Tracks: 6" />
-, <img src="https://img.shields.io/badge/Systems-4-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 4" />
+, <img src="https://img.shields.io/badge/Systems-6-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 6" />
 , <img src="https://img.shields.io/badge/Goal-Amateur%20to%20Expert-264653?style=for-the-badge&labelColor=0d1117" alt="Goal: Amateur to Expert" />
 , <img src="https://img.shields.io/badge/Not-a%20degree-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Not a degree" />
 </p>
@@ -32,8 +32,8 @@ How we age, how we move, how we think.
 | Track | Focus | Systems |
 |:---|:---|---:|
 | [Biology of Aging & Geroscience](https://github.com/RoyPiring/mastery-aging) | Omics and survival-analysis pipelines, aging clocks, intervention-study designs, and longevity diagnostics. | 1 |
-| [Kinesiology & Human Movement](https://github.com/RoyPiring/mastery-kinesiology) | Biomechanics modeling (OpenSim, OpenCap), wearable and movement analytics, and machine learning on movement. | 0 |
-| [Computational Neuroscience](https://github.com/RoyPiring/mastery-neuroscience) | Neural models, encoding and decoding on real data, brain-computer-interface decoders, and NeuroAI. | 0 |
+| [Kinesiology & Human Movement](https://github.com/RoyPiring/mastery-kinesiology) | Biomechanics modeling (OpenSim, OpenCap), wearable and movement analytics, and machine learning on movement. | 1 |
+| [Computational Neuroscience](https://github.com/RoyPiring/mastery-neuroscience) | Neural models, encoding and decoding on real data, brain-computer-interface decoders, and NeuroAI. | 1 |
 
 ## 🏗️ Built & Capital
 
