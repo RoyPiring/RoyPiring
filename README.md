@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-174-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 174" />
+  <img src="https://img.shields.io/badge/Systems-175-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 175" />
 , <img src="https://img.shields.io/badge/Domains-11-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 11" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-, <img src="https://img.shields.io/badge/Updated-2026--08--12-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-12" />
+, <img src="https://img.shields.io/badge/Updated-2026--08--20-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-20" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
@@ -46,7 +46,7 @@ The technical foundation. Cloud, AI, security, governance, and civic systems bui
 | Repo | Focus | Systems |
 |:---|:---|---:|
 | [`cloud-systems-engineering`](https://github.com/RoyPiring/cloud-systems-engineering) | Cloud platforms engineered for scale, reliability, and uptime. | 14 |
-| [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Cloud systems engineered for federal-grade security and compliance. | 4 |
+| [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Cloud systems engineered for federal-grade security and compliance. | 5 |
 | [`governance-systems-engineering`](https://github.com/RoyPiring/governance-systems-engineering) | Systems aligned to enterprise governance, security, and architecture standards. | 4 |
 | [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI agents and orchestration that move from prompt to outcome. | 10 |
 | [`global-problem-systems-engineering`](https://github.com/RoyPiring/global-problem-systems-engineering) | Population-scale systems built for civic and public-good outcomes. | 4 |
