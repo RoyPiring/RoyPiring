@@ -118,6 +118,8 @@ Mastery: [MASTERY.md](./MASTERY.md)
 
 Build & Brew: [BUILD-AND-BREW.md](./BUILD-AND-BREW.md)
 
+Fresh Off the Crown: [FRESH-OFF-THE-CROWN.md](./FRESH-OFF-THE-CROWN.md)
+
 Tracker: https://roypiring.github.io/dashboard.html
 
 <div align="center">
