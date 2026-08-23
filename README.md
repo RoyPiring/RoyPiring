@@ -118,9 +118,9 @@ Tracker: https://roypiring.github.io/dashboard.html
 
 **Other learning paths**
 
-- [Mastery](./Mastery.md): six fields I chose to go deep in, each a run at 100 hands-on builds
-- [Build & Brew](./Build-and-brew.md): the free weekly live cohort I lead, one real AI project built with the room each week
-- [Fresh Off the Crown](./Fresh-off-the-crown.md): a daily AI tooling practice, one verdict at a time on what earns a place in the work
+- [Build & Brew](./Build-and-brew.md): ship a real AI project every week, free and live
+- [Fresh Off the Crown](./Fresh-off-the-crown.md): know which new AI tools are worth adopting, with evidence
+- [Mastery](./Mastery.md): real depth in six fields, earned by building
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=115&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />
