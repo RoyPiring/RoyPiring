@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-186-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 186" />
+  <img src="https://img.shields.io/badge/Systems-188-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 188" />
 , <img src="https://img.shields.io/badge/Domains-19-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 19" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-, <img src="https://img.shields.io/badge/Updated-2026--08--22-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-22" />
+, <img src="https://img.shields.io/badge/Updated-2026--08--23-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-23" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
@@ -115,9 +115,9 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 <p align="center">
   <img src="https://img.shields.io/badge/Engineering-37-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 37" />
   <img src="https://img.shields.io/badge/Delivery-26-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 26" />
-  <img src="https://img.shields.io/badge/Mastery-6-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 6" />
+  <img src="https://img.shields.io/badge/Mastery-7-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 7" />
   <img src="https://img.shields.io/badge/Build%20%26%20Brew-4-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 4" />
-  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-1-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 1" />
+  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-2-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 2" />
   <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
 </p>
 
