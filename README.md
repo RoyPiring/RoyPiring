@@ -112,23 +112,16 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 
 ## 📊 Systems by track
 
-Every shipped system across all 19 public repos, counted the way the portfolio is built.
-
-<p align="center" style="margin-bottom: 0.4em;"><strong>🗂️ The eleven lenses</strong></p>
-<p align="center" style="margin-top: 0; margin-bottom: 1.1em;">
-  <img src="https://img.shields.io/badge/Engineering-37-5F8F3A?style=for-the-badge&labelColor=0d1117" alt="Engineering: 37" />
-  <img src="https://img.shields.io/badge/Delivery-26-2F5FA8?style=for-the-badge&labelColor=0d1117" alt="Delivery: 26" />
-  <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=for-the-badge&labelColor=0d1117" alt="NextWork: 112" />
+<p align="center" style="margin-bottom: 0.35em;">
+  <img src="https://img.shields.io/badge/Engineering-37-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 37" />
+  <img src="https://img.shields.io/badge/Delivery-26-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 26" />
+  <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
 </p>
-
-<p align="center" style="margin-bottom: 0.4em;"><strong>🌱 Learning paths</strong></p>
-<p align="center" style="margin-top: 0; margin-bottom: 0.6em;">
-  <img src="https://img.shields.io/badge/Mastery-6-B8482A?style=for-the-badge&labelColor=0d1117" alt="Mastery: 6" />
-  <img src="https://img.shields.io/badge/Build%20%26%20Brew-4-00897B?style=for-the-badge&labelColor=0d1117" alt="Build and Brew: 4" />
-  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-1-7E3FF2?style=for-the-badge&labelColor=0d1117" alt="Fresh Off the Crown: 1" />
+<p align="center" style="margin-top: 0;">
+  <img src="https://img.shields.io/badge/Mastery-6-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 6" />
+  <img src="https://img.shields.io/badge/Build%20%26%20Brew-4-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 4" />
+  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-1-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 1" />
 </p>
-
-<p align="center"><sub><strong>186</strong> systems shipped, tracked live on the <a href="https://roypiring.github.io/dashboard.html">progress dashboard</a>.</sub></p>
 
 ---
 
