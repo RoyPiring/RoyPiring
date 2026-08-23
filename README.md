@@ -127,7 +127,7 @@ Tracker: https://roypiring.github.io/dashboard.html
 
 **Other learning paths**
 
-- [Build & Brew](./Build-and-brew.md): ship a real AI project every week, free and live
+- [Build & Brew](./Build-and-brew.md): ship a real solutions engineering project every week, free and live
 - [Fresh Off the Crown](./Fresh-off-the-crown.md): know which new AI tools are worth adopting, with evidence
 - [Mastery](./Mastery.md): real depth in six fields, earned by building
 

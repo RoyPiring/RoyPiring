@@ -9,13 +9,13 @@
 , <img src="https://img.shields.io/badge/Beginners-Welcome-264653?style=for-the-badge&labelColor=0d1117" alt="Beginners welcome" />
 </p>
 
-🥋 Every week we build one real AI project together, live. The dojo is free, beginners are welcome, and you never have to speak. Typing in the chat counts.
+🥋 Every week we build one real solutions engineering project together, live. The dojo is free, beginners are welcome, and you never have to speak. Typing in the chat counts.
 
 ---
 
 ## 🌱 What this is
 
-Build & Brew is the NextWork live cohort, and I run it as the Build Master. Each week the room builds one real, end-to-end AI project together on the NextWork Discord. You can build along or just watch. Every build lands in a GitHub repo, finished or not. The point is plain: practice, and proof you can do the work. No job promises, and no resume help. Just the reps, in the open.
+Build & Brew is the NextWork live cohort, and I run it as the Build Master. Each week the room builds one real, end-to-end solutions engineering project together on the NextWork Discord. You can build along or just watch. Every build lands in a GitHub repo, finished or not. The point is plain: practice, and proof you can do the work. No job promises, and no resume help. Just the reps, in the open.
 
 ## 🎯 What each build drills
 
