@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verdicts-1-1B4332?style=for-the-badge&labelColor=0d1117" alt="Verdicts: 1" />
+  <img src="https://img.shields.io/badge/Verdicts-1%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Verdicts: 1 of 100" />
 , <img src="https://img.shields.io/badge/Cadence-Daily-C2185B?style=for-the-badge&labelColor=0d1117" alt="Cadence: daily" />
 , <img src="https://img.shields.io/badge/Build%20cap-30%20min-2F5233?style=for-the-badge&labelColor=0d1117" alt="Build cap: 30 minutes" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
@@ -46,7 +46,7 @@ Every verdict carries a **reversal trigger**: the one line saying what would cha
 - **Research daily, build conditionally, 30 minutes as a cap and not a target.** Reading release notes every day is the habit. Only the build is earned.
 - **A quiet day is a recorded outcome.** Nothing qualified, nothing shipped, and that row is a complete artifact. A quota against an event-driven source is how a dead-in-six-weeks toy enters by process rather than by taste.
 - **No metered keys and no cards.** The practice runs on capability already paid for, so a daily habit never carries a daily cost.
-- **No target number.** A practice with a quota is a practice with a fabrication problem.
+- **A run to 100 logged verdicts.** The count moves only when a run actually happened, and it is never backfilled to protect a streak.
 
 ## 🗂️ The repo
 
