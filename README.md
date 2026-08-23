@@ -13,7 +13,7 @@
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧭 Engineering philosophy
 
 Most engineering failures are not technical.
 They come from unclear decisions.
@@ -22,7 +22,7 @@ They come from unclear decisions.
 
 ---
 
-## 🧱 How I Work
+## 🧱 How I work
 
 Before building:
 
@@ -35,7 +35,7 @@ Clear decisions upfront prevent downstream instability.
 
 ---
 
-## 🗂️ Systems Portfolio
+## 🗂️ Systems portfolio
 
 Focused systems, each exploring a different dimension of real-world engineering.
 
@@ -63,7 +63,7 @@ How engineering reaches real people. Customer engagements, founder operations, a
 | [`leadership-systems-engineering`](https://github.com/RoyPiring/leadership-systems-engineering) | Leadership frameworks from formal coursework, engineered as working systems. | 4 |
 | [`applied-frameworks-systems-engineering`](https://github.com/RoyPiring/applied-frameworks-systems-engineering) | Frameworks from books and methodologies, engineered into working systems. | 5 |
 
-### 🌐 Cross-Domain Engineering
+### 🌐 Cross-domain engineering
 
 One repo, every domain. End-to-end builds across cloud, AI, security, data, and platform.
 
@@ -110,17 +110,17 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 
 ---
 
-# 🔗 Connect & Explore
+# 🔗 Connect & explore
 
 LinkedIn: https://www.linkedin.com/in/roy-piring-jr-426a1911a
 
-Mastery: [MASTERY.md](./MASTERY.md)
-
-Build & Brew: [BUILD-AND-BREW.md](./BUILD-AND-BREW.md)
-
-Fresh Off the Crown: [FRESH-OFF-THE-CROWN.md](./FRESH-OFF-THE-CROWN.md)
-
 Tracker: https://roypiring.github.io/dashboard.html
+
+**Other learning paths**
+
+- [Mastery](./Mastery.md): six fields I chose to go deep in, each a run at 100 hands-on builds
+- [Build & Brew](./Build-and-brew.md): the free weekly live cohort I lead, one real AI project built with the room each week
+- [Fresh Off the Crown](./Fresh-off-the-crown.md): a daily AI tooling practice, one verdict at a time on what earns a place in the work
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4332&height=115&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />

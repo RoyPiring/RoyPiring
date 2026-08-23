@@ -55,7 +55,7 @@ Every verdict carries a **reversal trigger**: the one line saying what would cha
 ---
 
 <div align="center">
-  <sub>Part of <a href="https://github.com/RoyPiring">Purpose Engineering</a> · <a href="./README.md">Systems</a> · <a href="./BUILD-AND-BREW.md">Build &amp; Brew</a> · <a href="./MASTERY.md">Mastery</a></sub>
+  <sub>Part of <a href="https://github.com/RoyPiring">Purpose Engineering</a> · <a href="./README.md">Systems</a> · <a href="./Build-and-brew.md">Build &amp; Brew</a> · <a href="./Mastery.md">Mastery</a></sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C2185B&height=115&section=footer&fontColor=F4D03F&font=Inter&animation=twinkling" width="100%" alt="" />
 </div>
