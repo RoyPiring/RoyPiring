@@ -110,17 +110,15 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 
 ---
 
-## 📊 Systems by track
+## 📊 Systems
 
-<p align="center" style="margin-bottom: 0.35em;">
+<p align="center">
   <img src="https://img.shields.io/badge/Engineering-37-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 37" />
   <img src="https://img.shields.io/badge/Delivery-26-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 26" />
-  <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
-</p>
-<p align="center" style="margin-top: 0;">
   <img src="https://img.shields.io/badge/Mastery-6-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 6" />
   <img src="https://img.shields.io/badge/Build%20%26%20Brew-4-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 4" />
   <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-1-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 1" />
+  <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
 </p>
 
 ---
