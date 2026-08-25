@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-190-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 190" />
+  <img src="https://img.shields.io/badge/Systems-191-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 191" />
 , <img src="https://img.shields.io/badge/Domains-19-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 19" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
 , <img src="https://img.shields.io/badge/Updated-2026--08--24-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-24" />
@@ -117,7 +117,7 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
   <img src="https://img.shields.io/badge/Delivery-26-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 26" />
   <img src="https://img.shields.io/badge/Mastery-8-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 8" />
   <img src="https://img.shields.io/badge/Build%20%26%20Brew-4-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 4" />
-  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-3-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 3" />
+  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-4-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 4" />
   <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
 </p>
 
