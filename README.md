@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-191-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 191" />
+  <img src="https://img.shields.io/badge/Systems-192-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 192" />
 , <img src="https://img.shields.io/badge/Domains-19-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 19" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-, <img src="https://img.shields.io/badge/Updated-2026--08--24-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-24" />
+, <img src="https://img.shields.io/badge/Updated-2026--08--25-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-25" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
@@ -57,7 +57,7 @@ How engineering reaches real people. Customer engagements, founder operations, a
 
 | Repo | Focus | Systems |
 |:---|:---|---:|
-| [`delivery-systems-engineering`](https://github.com/RoyPiring/delivery-systems-engineering) | Multi-project, multi-team customer engagements built to scale from one client to many. | 3 |
+| [`delivery-systems-engineering`](https://github.com/RoyPiring/delivery-systems-engineering) | Multi-project, multi-team customer engagements built to scale from one client to many. | 4 |
 | [`value-driven-systems-engineering`](https://github.com/RoyPiring/value-driven-systems-engineering) | Solutions and strategy engineered for small and growing business operators. | 7 |
 | [`solo-startup-systems-engineering`](https://github.com/RoyPiring/solo-startup-systems-engineering) | Systems for building and scaling a startup as a solo operator. | 7 |
 | [`leadership-systems-engineering`](https://github.com/RoyPiring/leadership-systems-engineering) | Leadership frameworks from formal coursework, engineered as working systems. | 4 |
@@ -114,7 +114,7 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineering-37-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 37" />
-  <img src="https://img.shields.io/badge/Delivery-26-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 26" />
+  <img src="https://img.shields.io/badge/Delivery-27-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 27" />
   <img src="https://img.shields.io/badge/Mastery-8-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 8" />
   <img src="https://img.shields.io/badge/Build%20%26%20Brew-4-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 4" />
   <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-4-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 4" />
