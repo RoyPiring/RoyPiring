@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Systems-196-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 196" />
 , <img src="https://img.shields.io/badge/Domains-19-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 19" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-, <img src="https://img.shields.io/badge/Updated-2026--08--27-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-27" />
+, <img src="https://img.shields.io/badge/Updated-2026--08--30-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-08-30" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
