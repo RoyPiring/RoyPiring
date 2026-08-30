@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-7%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 7 of 100" />
+  <img src="https://img.shields.io/badge/Systems-9%20%2F%20100-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 9 of 100" />
 , <img src="https://img.shields.io/badge/Cadence-Daily-C2185B?style=for-the-badge&labelColor=0d1117" alt="Cadence: daily" />
 , <img src="https://img.shields.io/badge/Build%20cap-30%20min-2F5233?style=for-the-badge&labelColor=0d1117" alt="Build cap: 30 minutes" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
