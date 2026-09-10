@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-205-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 205" />
+  <img src="https://img.shields.io/badge/Systems-206-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 206" />
 , <img src="https://img.shields.io/badge/Domains-19-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 19" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
-, <img src="https://img.shields.io/badge/Updated-2026--09--08-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-09-08" />
+, <img src="https://img.shields.io/badge/Updated-2026--09--10-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-09-10" />
 </p>
 
 ⚙️ Engineering with intent: what gets built, why it runs, and how it holds under real constraints.
@@ -116,7 +116,7 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
   <img src="https://img.shields.io/badge/Engineering-39-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 39" />
   <img src="https://img.shields.io/badge/Delivery-27-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 27" />
   <img src="https://img.shields.io/badge/Mastery-8-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 8" />
-  <img src="https://img.shields.io/badge/Build%20%26%20Brew-6-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 6" />
+  <img src="https://img.shields.io/badge/Build%20%26%20Brew-7-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 7" />
   <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-13-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 13" />
   <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
 </p>
