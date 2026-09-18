@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-212-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 212" />
+  <img src="https://img.shields.io/badge/Systems-213-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 213" />
 , <img src="https://img.shields.io/badge/Domains-19-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 19" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
 , <img src="https://img.shields.io/badge/Updated-2026--09--17-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-09-17" />
@@ -45,7 +45,7 @@ The technical foundation. Cloud, AI, security, governance, and civic systems bui
 
 | Repo | Focus | Systems |
 |:---|:---|---:|
-| [`cloud-systems-engineering`](https://github.com/RoyPiring/cloud-systems-engineering) | Cloud platforms engineered for scale, reliability, and uptime. | 14 |
+| [`cloud-systems-engineering`](https://github.com/RoyPiring/cloud-systems-engineering) | Cloud platforms engineered for scale, reliability, and uptime. | 15 |
 | [`government-systems-engineering`](https://github.com/RoyPiring/government-systems-engineering) | Cloud systems engineered for federal-grade security and compliance. | 10 |
 | [`governance-systems-engineering`](https://github.com/RoyPiring/governance-systems-engineering) | Systems aligned to enterprise governance, security, and architecture standards. | 4 |
 | [`agentic-systems-engineering`](https://github.com/RoyPiring/agentic-systems-engineering) | AI agents and orchestration that move from prompt to outcome. | 10 |
@@ -113,7 +113,7 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
 ## 📊 Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineering-42-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 42" />
+  <img src="https://img.shields.io/badge/Engineering-43-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 43" />
   <img src="https://img.shields.io/badge/Delivery-29-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 29" />
   <img src="https://img.shields.io/badge/Mastery-8-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 8" />
   <img src="https://img.shields.io/badge/Build%20%26%20Brew-8-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 8" />
