@@ -116,8 +116,8 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
   <img src="https://img.shields.io/badge/Engineering-43-5F8F3A?style=flat-square&labelColor=0d1117" alt="Engineering: 43" />
   <img src="https://img.shields.io/badge/Delivery-31-2F5FA8?style=flat-square&labelColor=0d1117" alt="Delivery: 31" />
   <img src="https://img.shields.io/badge/Mastery-8-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 8" />
-  <img src="https://img.shields.io/badge/Build%20%26%20Brew-10-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 10" />
-  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-14-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 14" />
+  <img src="https://img.shields.io/badge/Build%20%26%20Brew-11-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 11" />
+  <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-13-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 13" />
   <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
 </p>
 
