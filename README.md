@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-224-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 224" />
+  <img src="https://img.shields.io/badge/Systems-225-1B4332?style=for-the-badge&labelColor=0d1117" alt="Systems: 225" />
 , <img src="https://img.shields.io/badge/Domains-20-2F5233?style=for-the-badge&labelColor=0d1117" alt="Domains: 20" />
 , <img src="https://img.shields.io/badge/License-MIT-264653?style=for-the-badge&labelColor=0d1117" alt="License: MIT" />
 , <img src="https://img.shields.io/badge/Updated-2026--10--15-7B42BC?style=for-the-badge&labelColor=0d1117" alt="Updated: 2026-10-15" />
@@ -69,7 +69,7 @@ One repo, every domain. End-to-end builds across cloud, AI, security, data, and 
 
 | Repo | Focus | Systems |
 |:---|:---|---:|
-| [`nextwork-systems-engineering`](https://github.com/RoyPiring/nextwork-systems-engineering) | Validated end-to-end builds across cloud, AI, security, data, and platform. | 112 |
+| [`nextwork-systems-engineering`](https://github.com/RoyPiring/nextwork-systems-engineering) | Validated end-to-end builds across cloud, AI, security, data, and platform. | 113 |
 
 Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Each system inside has four sections: Overview, Architecture, Implementation, and Validation, with build outcomes shown as a checkmark list. The original source document is kept in `documents/`.
 
@@ -118,7 +118,7 @@ Every repo has a top-level README, an `INDEX.md` catalog, and an MIT license. Ea
   <img src="https://img.shields.io/badge/Mastery-8-B8482A?style=flat-square&labelColor=0d1117" alt="Mastery: 8" />
   <img src="https://img.shields.io/badge/Build%20%26%20Brew-12-00897B?style=flat-square&labelColor=0d1117" alt="Build and Brew: 12" />
   <img src="https://img.shields.io/badge/Fresh%20Off%20the%20Crown-13-7E3FF2?style=flat-square&labelColor=0d1117" alt="Fresh Off the Crown: 13" />
-  <img src="https://img.shields.io/badge/NextWork-112-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 112" />
+  <img src="https://img.shields.io/badge/NextWork-113-7A4F8C?style=flat-square&labelColor=0d1117" alt="NextWork: 113" />
 </p>
 
 ---
